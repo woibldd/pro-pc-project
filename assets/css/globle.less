@@ -1,0 +1,193 @@
+
+@font-face {
+    font-family: 'Inter';
+    src: url("https://cdn2.bitkeep.vip/bitkeep/fonts/Inter-Medium.otf");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'InterRegular';
+    src: url("https://cdn2.bitkeep.vip/bitkeep/fonts/Inter-Regular.otf");
+    font-weight: normal;
+    font-style: normal;
+}
+.InterR{
+    font-family: InterRegular !important;
+}
+.InterM{
+    font-family: Inter !important;
+}
+.ENletter{
+    letter-spacing: -0.5px !important;
+}
+html,
+body,
+p,
+ol,
+ul,
+li,
+dl,
+dt,
+dd,
+blockquote,
+figure,
+fieldset,
+legend,
+textarea,
+pre,
+iframe,
+hr,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+a {
+    color: #333;
+    text-decoration: none;
+    transition:none !important;
+}
+
+ul {
+    list-style: none;
+}
+
+button,
+input {
+    background: none;
+    border: none;
+    outline: none;
+}
+
+button,
+input,
+select,
+textarea {
+    margin: 0;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+img,
+embed,
+object,
+audio,
+video {
+    height: auto;
+    max-width: 100%;
+}
+
+iframe {
+    border: 0;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+.setInter-font-family {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: normal;
+}
+.ant-modal-content{
+    border-radius: 12px;
+    overflow: hidden;
+}
+.ant-drawer-body{
+    padding: 24px 20px;
+    overflow: hidden;
+    box-sizing: border-box;
+    height: 100%;
+}
+.dappindexTab{
+    .ant-tabs-nav .ant-tabs-tab{
+        padding:12px 0px !important;
+        margin:0 24px 0 0 !important;
+    }
+}
+.pointer {
+    cursor: pointer;
+}
+@media (max-width: 767px){
+.ant-modal-centered .ant-modal {
+  width: 90% !important;
+  min-height: 460px !important;
+}
+}
+.optional-header .swiper-button-next:after,.optional-header .swiper-button-prev:after{
+ content: "" !important;
+}
+.optional-header .swiper-button-prev.swiper-button-disabled,.optional-header .swiper-button-next.swiper-button-disabled{
+    opacity: 1 !important;  
+  }
+@media screen and (max-width: 750px) {
+    .ant-affix {
+        top: 44px !important;
+    }
+}
+
+.royalty-table {
+    .ant-table-thead {
+        th {
+            border: none;
+            &:first-child {
+                padding-left: 10px!important;
+            }
+            &:last-child {
+                padding-right: 10px!important;
+            }
+        }
+        .ant-table-column-title {
+            font-family: 'PingFang SC';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 12px;
+            line-height: 20px;
+            color: #919899;
+        }
+    }
+    .ant-table-tbody {
+        .ant-table-row { 
+            td {
+                font-family: 'Inter'; 
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 20px;
+                color: #0E0E0E;
+                border-bottom-color: #F2F2F5;
+                &:first-child {
+                    padding-left: 10px!important;
+                }
+                &:last-child {
+                    padding-right: 10px!important;
+                }
+            }
+        }
+    }
+}
+
+.ellipsis {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}

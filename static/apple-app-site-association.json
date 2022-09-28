@@ -1,0 +1,18 @@
+{
+    "activitycontinuation": {
+        "apps": ["KKTVFHS52S.com.bitkeep.os", "KKTVFHS52S.com.bitkeep.wallet5", "KKTVFHS52S.com.bitkeep.wallet4"]
+    },
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "KKTVFHS52S.com.bitkeep.os",
+            "paths": ["*"]
+        }, {
+            "appID": "KKTVFHS52S.com.bitkeep.wallet5",
+            "paths": ["*"]
+        }, {
+            "appID": "KKTVFHS52S.com.bitkeep.wallet4",
+            "paths": ["*"]
+        }]
+    }
+}

@@ -1,0 +1,47 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.bitkeep.wallet",
+        "sha256_cert_fingerprints":
+        ["FB:02:23:7B:52:76:AD:AB:15:F0:6E:7C:6D:66:B6:D7:7E:22:3F:5A:1F:66:C9:CA:BC:05:BA:CA:BC:0A:AD:66"]
+      }
+      },
+      {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.bitkeep.wallet5",
+        "sha256_cert_fingerprints":
+        ["FB:02:23:7B:52:76:AD:AB:15:F0:6E:7C:6D:66:B6:D7:7E:22:3F:5A:1F:66:C9:CA:BC:05:BA:CA:BC:0A:AD:66"]
+      }
+    },
+{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.bitkeep.app",
+        "sha256_cert_fingerprints":
+        ["FB:02:23:7B:52:76:AD:AB:15:F0:6E:7C:6D:66:B6:D7:7E:22:3F:5A:1F:66:C9:CA:BC:05:BA:CA:BC:0A:AD:66"]
+      }
+      },
+      {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.bitkeep.wallet",
+        "sha256_cert_fingerprints":
+        ["FB:02:23:7B:52:76:AD:AB:15:F0:6E:7C:6D:66:B6:D7:7E:22:3F:5A:1F:66:C9:CA:BC:05:BA:CA:BC:0A:AD:66"]
+      }
+    },
+      {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.bitkeep.w4",
+        "sha256_cert_fingerprints":
+        ["FB:02:23:7B:52:76:AD:AB:15:F0:6E:7C:6D:66:B6:D7:7E:22:3F:5A:1F:66:C9:CA:BC:05:BA:CA:BC:0A:AD:66"]
+      }
+    }
+
+]

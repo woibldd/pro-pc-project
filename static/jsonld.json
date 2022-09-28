@@ -1,0 +1,12 @@
+{
+    "website":{
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "name": "BitKeep",
+        "url": "https://bitkeep.com/",
+        "description": "BitKeep is the world's largest multi-chain wallet. Manage thousands of digital currencies, including Bitcoin, Ethereum, EOS completely decentralized. No registration is require!",
+        "sameAs": ["https://twitter.com/BitKeepOS", "https://t.me/bitkeep"],
+        "image": "https://cdn.bitkeep.vip/u_b_ef198700-ded5-11eb-8c08-ff617688b8f3.png",
+        "logo": "https://bitkeep.io./images/logo.svg"
+    }
+}

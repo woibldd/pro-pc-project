@@ -1,0 +1,38 @@
+{
+    "apps": [
+      {
+        "name": "proPcProject",
+        "script": "nuxt start",
+        "watch": false,
+        "log_date_format": "YYYY-MM-DD HH:mm:ss",
+        "env": {
+          "PUBLIC_PATH":"https://cdn2.bitkeep.vip/web/pro-pc-project",
+          "DEBUG":"bit*",
+          "BUILD_TYPE":"pro",
+          "HOST_API":"https://a1.bitkeep.top", 
+          "DAPP_HOST": "http://ms.dapp:8884",
+          "MARKET_HOST": "http://ms.market:8886",
+          "INO_HOST": "http://ms.nftmarket:8887",
+          "NFT_HOST": "http://ms.nftmarket:8887",
+          "USER_HOST":"http://ms.user:8881",
+          "OPERATION_HOST": "http://ms.operation:8898", 
+          "NODE_ENV": "production",
+          "PROT":  8888
+        }
+      }
+    ]
+  }
+  
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  

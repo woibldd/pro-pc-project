@@ -1,0 +1,26 @@
+{
+    "New1":{
+        "title":"Cross-chain gas infra GASUtopia receives a $3M investment from BitKeep.",
+        "describe":"The universal gas, dubbed GASU, will be used among multiple blockchains.",
+        "banner":"https://cdn.bitkeep.vip/u_b_8f7179b0-14b8-11ed-ae28-7507a9b22b77.png",
+        "content":{
+            "top":[
+                {"text":"The cross-chain gas infrastructure GASUtopia was officially launched on August 8th, launching its universal gas token GASU, setting the stage for the establishment of an instant, low-cost, and free interaction environment between multiple networks."},
+                {"text":"With the launch of GASU, Web3 users do not need the native gas token when interacting across chains and will be deducted by GASU. It will support more than 50 public chains, and GASU is not affiliated with any of them, GASUtopia said Monday. In the usage scenario, the amount of GASU required for cross-chain can be calculated and consumed in real-time according to the gas cost of each main chain."},
+                {"text":"GASUtopia received a $3 million investment from BitKeep. As a multi-chain wallet focusing on Web 3.0, this is also BitKeep's first investment in the infra field. BitKeep founder Kevin said, 'GASUtopia is an open platform, and hopes to cooperate with more DAO institutions, building a better Web3 jointly.' In the first half of 2022, BitKeep Wallet completed a $15 million Series A financing led by Dragonfly at a valuation of $100 million."},
+                {"text":"As the investor, BitKeep founder Kevin explained the existing challenges facing Web3:"}
+            ],
+            "middle":[
+                {"text":"The development space of Web3 has been shackled. This borderless blockchain is divided by public chains, gas payment requires native tokens among them, which is like building a wide moat between various ecologies, making each ecology a silo. DApps lose interoperability and information is cocooned, casting a cloud over the arrival of Web3."},
+                {"text":"As users, they are often anxious about gas fees, they must and can only pay for it with the native token."},
+                {"text":"As a Web3 wallet, BitKeep has added 72 chains, in order to provide a richer and more comprehensive user experience, which means users are faced with 72 types of gas. It's time to build a new infra!"}
+            ],
+            "bottom":[
+                {"text":"In his view, paying transfer fees with mainnet native tokens is outdated, inefficient, and has a high threshold, which will result in a poor user experience and a slow development rate for Web3. 'GASU solves that problem,' he said. By establishing a future-oriented, dollar-anchored gas token that is not affiliated with any public chain, which is used to pay transfer gas fees for all chains, it can provide a solution for value transfer between multiple networks, lowering the threshold for users and developers into Web3 metaverse."},
+                {"text":"Future iterations of GASUtopia will always remain scalable, BitKeep said in a Twitter post."},
+                {"text":"With the advent of the Web3.0 era, users are calling for an easier-to-use, friendly, efficient, and open infra. The birth of GASU will drive Web3 to a billion users."}
+            ]
+
+        }
+    }
+}

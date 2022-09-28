@@ -1,0 +1,83 @@
+
+
+{
+    "apps": [
+      {
+        "name": "proPcProject",
+        "script": "nuxt start",
+        "node_args": "--inspect=0.0.0.0:9999",
+        "watch": false,
+        "log_date_format": "YYYY-MM-DD HH:mm:ss",
+        "error_file": "./log/api_error.log",
+        "out_file":  "./log/api_runtime.log",
+        "env": {
+          "PUBLIC_PATH":"/pro-pc-project",
+          "BUILD_TYPE":"pre",
+          "HOST_API":"http://106.75.60.163:8870",
+          "DAPP_HOST": "http://106.75.60.163:8870/dapp",
+          "MARKET_HOST": "http://106.75.60.163:8870/market",
+          "INO_HOST": "http://106.75.60.163:8870/nft_market",
+          "NFT_HOST": "http://106.75.60.163:8870/nft_market", 
+          "COLLECTION_HOST": "http://106.75.60.163:8870/nft_market",
+          "UPLOAD_HOST": "http://dev.bitkeep.top:8990",
+          "USER_HOST":"http://106.75.60.163:8870/user",
+          "OPERATION_HOST": "http://106.75.60.163:8870/operationweb",
+          "DEBUG":"bit*",
+          "PROT":  8888
+        }
+      }
+    ]
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
